@@ -23,4 +23,7 @@ Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantee
 
 <h3> In the Final Step it determine the shortest path reaching here both the examples mentioned below with and without the obstacles.
 
-![](Screenshots/3.png)  ![](Screenshots/11.png)
+![](Screenshots/3.png)  
+
+
+![](Screenshots/11.png)
