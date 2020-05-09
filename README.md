@@ -12,12 +12,15 @@ Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantee
 ![](Screenshots/1.PNG)
 
 
-
+<h3>Then you can add the obstacles in the graph if you want, then the algo would get you the best way possible jumoing the obstacles.
+ 
+ ![](Screenshots/10.PNG)
+ 
 <h3> After that Dijkstra Algorithm starts it's work, of relaxing adjacent nodes one after the other.
   
 ![](Screenshots/2.png)
 
 
-<h3> In the Final Step it determine the shortest path reaching here.
+<h3> In the Final Step it determine the shortest path reaching here both the examples mentioned below with and without the obstacles.
 
-![](Screenshots/3.png)
+![](Screenshots/3.png)  ![](Screenshots/11.png)
