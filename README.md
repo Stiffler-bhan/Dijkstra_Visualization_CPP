@@ -14,7 +14,7 @@ Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantee
 
 <h3>Then you can add the obstacles in the graph if you want, then the algo would get you the best way possible jumoing the obstacles.
  
- ![](Screenshots/10.PNG)
+ ![](Screenshots/10.png)
  
 <h3> After that Dijkstra Algorithm starts it's work, of relaxing adjacent nodes one after the other.
   
