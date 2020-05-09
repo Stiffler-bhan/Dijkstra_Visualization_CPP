@@ -11,6 +11,8 @@ I have tried to bring the theoretical concept into a visualization application, 
 
 Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantees the shortest path
 
+See the working on Youtube :-  https://www.youtube.com/watch?v=PVW8IHZruAw
+
 
 <h3>First Screen of the Application where you select the Starting and ending node.
 
